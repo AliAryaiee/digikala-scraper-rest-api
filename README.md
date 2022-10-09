@@ -3,8 +3,6 @@
 
 This application retrieve all related products on a product page of Digikala and then save the all products in the database.
 
-
-
 ## Installation
 
 Extract digikala-scraper-rest-api files and then run these command:
